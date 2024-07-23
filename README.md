@@ -1,11 +1,11 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/qunash/stable-diffusion-2-gui/blob/main/stable_diffusion_2_0.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/Nepoi/SD-WebUI-v3.3/blob/main/stable_diffusion_2_0.ipynb)
 # **Stable Diffusion v 2.1 web UI**
 Gradio app for [Stable Diffusion 2](https://huggingface.co/stabilityai/stable-diffusion-2) by [Stability AI](https://stability.ai/).
 It uses [Hugging Face](https://huggingface.co/) Diffusers🧨 implementation.
 
 Currently supported pipelines are `text-to-image`, `image-to-image`, `inpainting`, `upscaling` and `depth-to-image`.
 
-[![Discord](https://img.shields.io/discord/1060110102188797992?color=green&label=Join%20server&logo=discord)](https://discord.gg/ggEX7hSpfw)
+#[![Discord](https://img.shields.io/discord/1060110102188797992?color=green&label=Join%20server&logo=discord)](https://discord.gg/ggEX7hSpfw)
 
 <br>
 
