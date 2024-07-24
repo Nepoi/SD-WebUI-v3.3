@@ -4,3 +4,4 @@ accelerate
 scipy
 ftfy
 gradio
+torchvision==0.12.0
