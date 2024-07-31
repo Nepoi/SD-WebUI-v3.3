@@ -1,6 +1,6 @@
 diffusers
 transformers
-accelerate==0.12.0
+accelerate
 scipy
 ftfy
 gradio==3.16.0
